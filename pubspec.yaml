@@ -1,0 +1,20 @@
+name: platform_aware_padding
+description: An example project showcasing the use of responsive padding in Flutter.
+publish_to: none
+repository: https://github.com/dartfoundry/platform_aware_padding
+version: 1.0.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
